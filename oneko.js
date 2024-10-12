@@ -64,6 +64,7 @@
         nekoEl.style.imageRendering = "pixelated";
         nekoEl.style.left = "16px";
         nekoEl.style.top = "16px";
+        
 
         document.body.appendChild(nekoEl);
 
